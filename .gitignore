@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+phishguard_report_*.json
+phishguard_report_*.csv
